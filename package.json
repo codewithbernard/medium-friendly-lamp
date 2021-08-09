@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8"
+  },
+  "name": "medium-friendly-lamp",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithbernard/medium-friendly-lamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithbernard/medium-friendly-lamp/issues"
+  },
+  "homepage": "https://github.com/codewithbernard/medium-friendly-lamp#readme"
+}
